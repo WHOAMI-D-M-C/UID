@@ -26,7 +26,7 @@ cd UID
 
 ls
 
-python run.py
+python run.cpython-310
 
 
 
